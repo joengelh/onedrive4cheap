@@ -1,0 +1,1 @@
+copy-item -Path "\\192.168.2.22\ftp\shortcuts\*" -Destination "$env:USERPROFILE\desktop" -Force
