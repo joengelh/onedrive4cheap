@@ -1,5 +1,5 @@
 # onedrive4cheap
-the ondrive principle for cheap in windows if attached to active directory
+the onedrive principle for cheap in windows if attached to active directory
 ---
 ![alt-text](https://github.com/joengelh/onedrive4cheap/blob/main/wallpaper.jpeg)
 
