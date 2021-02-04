@@ -2,7 +2,7 @@ $ErrorActionPreference = 'SilentlyContinue'
 
 if (Test-Path \\192.168.2.22\FTP\spielstaende\$env:USERNAME)
 {
-Copy-Item -Path "\\192.168.2.22\FTP\spielstaende\$env:USERNAME\*" -Destination "$env:USERPROFILE\documents" -Force -Recurse
+Copy-Item -Path "\\192.168.2.22\FTP\spielstaende\$env:USERNAME\*" -Destination "$env:USERPROFILE\documents\" -Force -Recurse
 }
 else
 {
