@@ -9,5 +9,5 @@ the scripts:
 * place chosen shortcuts
 * sync specified files and folders in users homedirectory upon start
 * if user does not exist in shared dir, create
-* place defaults if user does not exis
-* resync upon shutdoen
+* place defaults if user does not exists
+* resync upon shutdown
